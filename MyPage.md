@@ -8,7 +8,7 @@
 
 <address>  
 Arthur Sherman  
-N.I.H.-N.I.D.D.K.-M.R.B.  
+NIH-NIDDK-LBM  
 Building 12A, Room 4007  
 12 SOUTH DR MSC 5621  
 Bethesda, MD 20892-5621  

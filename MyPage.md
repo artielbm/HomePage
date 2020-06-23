@@ -36,7 +36,7 @@ We study both detailed biophysical models and simplified models, which are more 
 
 ## Further Information and Resources
 
-*   [CV & Publications](http://mrb.niddk.nih.gov/sherman/CV.html) (With links to PubMed and MathSciNet.  Some are downloadable by request)
+*   [CV & Publications](https://github.com/artielbm/CV/blob/master/CV.md) (with links to PubMed and supplementary files)
 *   [Numerical Methods Chapter in "Methods for Neuronal Modeling" plus Software for Neuronal Modeling](http://mrb.niddk.nih.gov/sherman/Numerics.html)
 *   [Gallery of Models](http://mrb.niddk.nih.gov/sherman/gallery/index.html): Parameters and equations for a variety of models and supplementary material for papers.
 *   [Chapter in "Case Studies in Mathematical Modeling"](http://mrb.niddk.nih.gov/sherman/Utah.html)

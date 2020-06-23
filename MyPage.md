@@ -14,7 +14,8 @@ Building 12A, Room 4007<br>
 Bethesda, MD 20892-5621<br>
 phone: (301) 496 - 4325<br>
 fax: (301) 402 - 0535<br>
-email: [arthurs@niddk.nih.gov](mailto:arthurs@niddk.nih.gov)</address>
+email: [arthurs@niddk.nih.gov](mailto:arthurs@niddk.nih.gov)<br>
+</address>
 
 * * *
 

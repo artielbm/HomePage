@@ -14,7 +14,7 @@ Building 12A, Room 4007<br>
 Bethesda, MD 20892-5621<br>
 phone: (301) 496 - 4325<br>
 fax: (301) 402 - 0535<br>
-email: [arthurs@niddk.nih.gov](mailto:arthurs@niddk.nih.gov)<br>
+email: [arthurs@niddk.nih.gov](mailto:arthurs@niddk.nih.gov)
 </address>
 
 * * *
@@ -35,7 +35,6 @@ We study both detailed biophysical models and simplified models, which are more 
 
 ## Further Information and Resources
 
-*   [Special Event Honoring Wilfrid Rall](http://mrb.niddk.nih.gov/sherman/RallEventSchedule/index.html)
 *   [CV & Publications](http://mrb.niddk.nih.gov/sherman/CV.html) (With links to PubMed and MathSciNet.  Some are downloadable by request)
 *   [Numerical Methods Chapter in "Methods for Neuronal Modeling" plus Software for Neuronal Modeling](http://mrb.niddk.nih.gov/sherman/Numerics.html)
 *   [Gallery of Models](http://mrb.niddk.nih.gov/sherman/gallery/index.html): Parameters and equations for a variety of models and supplementary material for papers.

@@ -7,13 +7,20 @@
 ## Contact Address:
 
 <address>  
-Arthur Sherman  
-NIH-NIDDK-LBM  
+Arthur Sherman
+  
+NIH-NIDDK-LBM
+
 Building 12A, Room 4007  
+
 12 SOUTH DR MSC 5621  
+
 Bethesda, MD 20892-5621  
+
 phone: (301) 496 - 4325  
+
 fax: (301) 402 - 0535  
+
 email: [arthurs@niddk.nih.gov](mailto:arthurs@niddk.nih.gov)</address>
 
 * * *

@@ -1,6 +1,6 @@
 # Arthur Sherman
 
-![[Arthur Sherman]](./Home Page of Arthur Sherman_files/pivNedImage.jpeg)  
+![[Arthur Sherman's Home Page]](./pivNedImage.jpeg)  
 
 ## Contact Address:
 
@@ -54,8 +54,3 @@ We study both detailed biophysical models and simplified models, which are more 
 *   [Bistability of Beta-Cell Mass in Type 2 Diabetes](https://mbi.osu.edu/video/player/?id=2741&title=Bistability+of+Beta+Cell+Mass+in+Diabetes) Presentation at Mathematical Biosciences Institute, August, 2013.
 *   [Prevention, Pathogenesis and Reversal of Type 2 Diabetes](http://www.fields.utoronto.ca/video-archive/2014/03/259-3080) Presentation at Fields Institute for Mathematical Sciences, March, 2014.
 
-![ ](./Home Page of Arthur Sherman_files/bann01.gif)
-
-Back to [LBM Home Page](http://mrb.niddk.nih.gov/)[![](./Home Page of Arthur Sherman_files/back.gif)](http://mrb.niddk.nih.gov/)
-
-_Last Updated 10/02/12_

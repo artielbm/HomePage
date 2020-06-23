@@ -1,7 +1,5 @@
 # Arthur Sherman
 
-![[Arthur Sherman's Home Page]](./Henge.jpg)  
-
 <p align="center">
   <img src="Henge.jpg" width="350" title="AS">
 </p>

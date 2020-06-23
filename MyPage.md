@@ -26,7 +26,7 @@ We use mathematical models to study the mechanisms of oscillatory electrical act
 
 Our main application has been to the biophysical basis of insulin secretion in pancreatic beta-cells. We have examined bursting oscillations in membrane potential and the role of electrical coupling between cells in the islet of Langerhans. Long-term goals are to understand how the membrane dynamics interact with intracellular events to regulate secretion and to generalize to other secretory cells and neurons.
 
-A second major focus recently has been mechanisms of synaptic transmission and short-term plasticity. Together with E. Stanley (NINDS) we have proposed a model for release and fast facilitation in which Ca2+ in microdomains, rather than bulk Ca2+, plays the leading role.
+A second major focus has been mechanisms of synaptic transmission and short-term plasticity. Together with E. Stanley (NINDS) we have proposed a model for release and fast facilitation in which Ca2+ in microdomains, rather than bulk Ca2+, plays the leading role.
 
 Finally, we have begun to model the pathogenesis of diabetes, primarily type 2 but also some aspects of type 1. We seek to understand why it is easier to prevent diabetes than reverse it and how knowlege of the different pathways to diabetes (for example, through high fasting glucose vs. through high post-meal glucose) can be used to target diagnosis and therapy to the individual patient.
 

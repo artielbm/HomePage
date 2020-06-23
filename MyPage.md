@@ -19,6 +19,10 @@ email: [arthurs@niddk.nih.gov](mailto:arthurs@niddk.nih.gov)
 
 * * *
 
+[arthurs@niddk.nih.gov](mailto:arthurs@niddk.nih.gov)
+
+* * *
+
 ## Research Interests and Approach
 
 We use mathematical models to study the mechanisms of oscillatory electrical activity arising from ion channels in cell membranes and modulated by intracellular chemical processes. We are interested in both the behavior of single cells and the ways in which cells communicate and modify each other's behavior.

@@ -1,6 +1,6 @@
 # Arthur Sherman
 
-![[Arthur Sherman's Home Page]](./Henge.jpeg)  
+![[Arthur Sherman's Home Page]](./Henge.jpg)  
 
 ## Contact Address:
 
